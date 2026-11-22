@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+plotly
+joblib
+statsmodels
+scikit-learn==1.9.1
